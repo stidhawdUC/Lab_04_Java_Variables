@@ -57,6 +57,9 @@ public class Main {
         int birthMonthShort = 04;
         String fullName = "Worley Stidham";
 
+        System.out.println("Thus concludes the arithmetic exercise for " + fullName + ".");
+
+
 
     }
 }
